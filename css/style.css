@@ -1,0 +1,133 @@
+/* header-style */
+.header-sections{
+    background-color:#264653;
+    padding-top:100px;
+    padding-bottom:80px;
+}
+
+.navbar-menu{
+    margin-left:700px;
+    margin-top: -70px;
+}
+
+.menu-button{
+    background-color:rgb(231, 124, 82);
+    margin-top: -110px;
+}
+
+.header-bike{
+    height:400px;
+    width:500px;
+    margin-left:50px;
+}
+
+.header-button{
+    background-color: rgb(231, 124, 82);
+    border-radius: 7px;
+}
+
+.pragraph-color{
+    color:#E0E0E0;
+}
+
+.header-text{
+    margin-top:50px;
+    margin-left:20px;
+}
+
+/* main-section-style */
+.collection{
+    color:rgb(224, 80, 24);
+}
+
+.feature-bike{
+    height:210px;
+    width:250px;
+    margin-top:80px;
+    margin-left:50px;
+}
+.grescle{
+    filter: grayscale(100%);
+}
+.extra-margin{
+    margin-top:100px;
+}
+
+.card-img{
+    background-color: rgb(216, 207, 207);
+    border-radius:20px;
+    width:270px;
+    height:280px;
+}
+
+.card-bodi{
+    width:19rem;
+    border-radius: 20px;
+}
+.button-color{
+    background-color:rgb(231, 124, 82);
+}
+
+/* clint-section */
+.clint{
+    margin-top:130px;
+}
+.heading-color{
+    color:rgb(236, 134, 93);
+}
+.card-img-2{
+    height:150px;
+    width:150px;
+    margin-top:40px;
+}
+
+.user-3{
+    border-radius:80px;
+}
+
+.icon-font{
+    margin-left:90px;
+    color:rgb(223, 115, 73);
+}
+
+.clint-name{
+    margin-left: 95px;
+    color:#23A6F0;
+}
+.clint-ocu{
+    margin-left:115px;
+}
+
+/* faq-section */
+
+.faq-img{
+    height:451px;
+    width:441px;
+}
+.acordian{
+    margin-right:70px;
+}
+
+/* subscribe-section */
+.subscribe{
+    background-color:#264653;
+}
+
+/* footer-sections */
+.footer-sections{
+    background-color:black;
+    padding-top:70px;
+    padding-bottom:80px;
+}
+
+.app-store{
+    height:100px;
+    width:150px;
+}
+
+.footer-image{
+    margin-left:300px;
+}
+.footer-texts{
+    margin-left:80px;
+}
